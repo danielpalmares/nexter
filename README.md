@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Nexter" title="Nexter" src="https://github.com/danielpalmares/nexter-css/blob/main/img/favicon.png" />
+  <img alt="Nexter" title="Nexter" src="https://github.com/danielpalmares/nexter/blob/main/img/favicon.png" />
 </h1>
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 ## Layout 
 
-![Layout](https://github.com/danielpalmares/nexter-css/blob/main/.github/nexter-layout.png)
+![Layout](https://github.com/danielpalmares/nexter/blob/main/.github/nexter-layout.png)
 
 ---
 
@@ -48,10 +48,10 @@ Besides that, it's a good idea to have a nice text editor like [VSCode](https://
 
 ```bash
 # Open the cmd/terminal and clone this repository
-$ git clone <https://github.com/danielpalmares/nexter-css>
+$ git clone <https://github.com/danielpalmares/nexter>
 
 # Open the project folder 
-$ cd nexter-css
+$ cd nexter
 
 # Install the dependencies
 $ npm install
@@ -67,8 +67,8 @@ $ npm run start
 These tools were used in the project:
 
 - HTML
-- GRID CSS
+- SASS (grid)
 
 ## License
 
-This project is under the MIT license. See the archive [LICENSE](https://github.com/danielpalmares/nexter-css/blob/main/LICENSE) for more details.
+This project is under the MIT license. See the archive [LICENSE](https://github.com/danielpalmares/nexter/blob/main/LICENSE) for more details.
