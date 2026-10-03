@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1774410366096",
+    "name": "Matheus",
+    "email": "matheus@email.com",
+    "phone": "24999606060",
+    "message": "Tenho interesse nessa casa",
+    "propertyId": "1",
+    "createdAt": "2026-03-25T03:46:06.097Z"
+  },
+  {
+    "id": "1774398294352",
+    "name": "Mario",
+    "email": "mario@email.com",
+    "phone": "24999992343434",
+    "message": "Tenho interesse",
+    "propertyId": "1774388188968",
+    "createdAt": "2026-03-25T00:24:54.352Z"
+  },
+  {
+    "id": "1774388722681",
+    "name": "Daniel Palmares",
+    "email": "danfpl.contato@gmail.com",
+    "phone": "24999505050",
+    "message": "Tenho interesse neste imóvel, podemos conversar mais?",
+    "propertyId": "1774388188968",
+    "createdAt": "2026-03-24T21:45:22.681Z"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "Erik Feinman",
+    "photo": "/img/realtor-1.jpeg",
+    "salesCount": 245
+  },
+  {
+    "id": "2",
+    "name": "Kim Brown",
+    "photo": "/img/realtor-2.jpeg",
+    "salesCount": 212
+  },
+  {
+    "id": "3",
+    "name": "Toby Ramsey",
+    "photo": "/img/realtor-3.jpeg",
+    "salesCount": 198
+  }
+]

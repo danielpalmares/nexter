@@ -1,0 +1,115 @@
+{
+  "name": "Nexter",
+  "tagline": "your home, your freedom",
+  "logo": "/img/logo.png",
+  "primaryColor": "#c56380",
+  "primaryColorDark": "#b28451",
+  "seenOnLogos": [
+    {
+      "src": "/img/logo-bbc.png",
+      "alt": "BBC"
+    },
+    {
+      "src": "/img/logo-forbes.png",
+      "alt": "Forbes"
+    },
+    {
+      "src": "/img/logo-techcrunch.png",
+      "alt": "TechCrunch"
+    },
+    {
+      "src": "/img/logo-bi.png",
+      "alt": "Business Insider"
+    }
+  ],
+  "socialMedia": {
+    "instagram": "",
+    "facebook": "",
+    "whatsapp": ""
+  },
+  "galleryImages": [
+    {
+      "src": "/img/gal-1.jpeg",
+      "alt": "Gallery image 1"
+    },
+    {
+      "src": "/img/gal-2.jpeg",
+      "alt": "Gallery image 2"
+    },
+    {
+      "src": "/img/gal-3.jpeg",
+      "alt": "Gallery image 3"
+    },
+    {
+      "src": "/img/gal-4.jpeg",
+      "alt": "Gallery image 4"
+    },
+    {
+      "src": "/img/gal-5.jpeg",
+      "alt": "Gallery image 5"
+    },
+    {
+      "src": "/img/gal-6.jpeg",
+      "alt": "Gallery image 6"
+    },
+    {
+      "src": "/img/gal-7.jpeg",
+      "alt": "Gallery image 7"
+    },
+    {
+      "src": "/img/gal-8.jpeg",
+      "alt": "Gallery image 8"
+    },
+    {
+      "src": "/img/gal-9.jpeg",
+      "alt": "Gallery image 9"
+    },
+    {
+      "src": "/img/gal-10.jpeg",
+      "alt": "Gallery image 10"
+    },
+    {
+      "src": "/img/gal-11.jpeg",
+      "alt": "Gallery image 11"
+    },
+    {
+      "src": "/img/gal-12.jpeg",
+      "alt": "Gallery image 12"
+    },
+    {
+      "src": "/img/gal-13.jpeg",
+      "alt": "Gallery image 13"
+    },
+    {
+      "src": "/img/gal-14.jpeg",
+      "alt": "Gallery image 14"
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Find your dream home",
+      "href": "/imoveis"
+    },
+    {
+      "label": "Request proposal",
+      "href": "/contato"
+    },
+    {
+      "label": "Download home planner",
+      "href": "#"
+    },
+    {
+      "label": "Contact us",
+      "href": "/contato"
+    },
+    {
+      "label": "Submit your property",
+      "href": "/contato"
+    },
+    {
+      "label": "Come work with us!",
+      "href": "/contato"
+    }
+  ],
+  "copyright": "Copyright 2024 by Nexter"
+}

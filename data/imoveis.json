@@ -1,0 +1,139 @@
+[
+  {
+    "id": "1",
+    "slug": "beautiful-family-house",
+    "title": "Beautiful Family House",
+    "location": "USA",
+    "rooms": 5,
+    "area": 325,
+    "price": 1200000,
+    "photos": [
+      "/img/house-1.jpeg"
+    ],
+    "description": "A stunning family home nestled in the heart of America, offering spacious living areas, modern amenities, and a beautiful backyard perfect for family gatherings.",
+    "featured": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "slug": "modern-glass-villa",
+    "title": "Modern Glass Villa",
+    "location": "Canada",
+    "rooms": 6,
+    "area": 450,
+    "price": 2750000,
+    "photos": [
+      "/img/house-2.jpeg"
+    ],
+    "description": "An architectural masterpiece featuring floor-to-ceiling glass walls, cutting-edge design, and breathtaking views of the Canadian wilderness.",
+    "featured": true,
+    "createdAt": "2024-01-02T00:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "slug": "cozy-country-house",
+    "title": "Cozy Country House",
+    "location": "UK",
+    "rooms": 4,
+    "area": 250,
+    "price": 850000,
+    "photos": [
+      "/img/house-3.jpeg"
+    ],
+    "description": "A charming countryside retreat in the rolling hills of England, combining traditional architecture with modern comforts.",
+    "featured": true,
+    "createdAt": "2024-01-03T00:00:00.000Z"
+  },
+  {
+    "id": "4",
+    "slug": "large-rustical-villa",
+    "title": "Large Rustical Villa",
+    "location": "Portugal",
+    "rooms": 6,
+    "area": 480,
+    "price": 1950000,
+    "photos": [
+      "/img/house-4.jpeg"
+    ],
+    "description": "A magnificent rustic villa set amid the lush landscapes of Portugal, featuring traditional stone architecture and expansive outdoor terraces.",
+    "featured": true,
+    "createdAt": "2024-01-04T00:00:00.000Z"
+  },
+  {
+    "id": "5",
+    "slug": "majestic-palace-house",
+    "title": "Majestic Palace House",
+    "location": "Germany",
+    "rooms": 18,
+    "area": 4230,
+    "price": 9500000,
+    "photos": [
+      "/img/house-5.jpeg"
+    ],
+    "description": "An extraordinary palace estate in Germany, offering unrivaled grandeur with 18 rooms, historic architecture, and meticulously landscaped grounds.",
+    "featured": true,
+    "createdAt": "2024-01-05T00:00:00.000Z"
+  },
+  {
+    "id": "6",
+    "slug": "modern-family-apartment",
+    "title": "Modern Family Apartment",
+    "location": "Italy",
+    "rooms": 3,
+    "area": 180,
+    "price": 600000,
+    "photos": [
+      "/img/house-6.jpeg"
+    ],
+    "description": "A sophisticated city apartment in the heart of Italy, blending contemporary design with classic Italian elegance.",
+    "featured": true,
+    "createdAt": "2024-01-06T00:00:00.000Z"
+  },
+  {
+    "id": "1774388188968",
+    "slug": "mansao-vr",
+    "title": "Mansão VR",
+    "location": "Jardim Amália",
+    "rooms": 5,
+    "area": 400,
+    "price": 1500000,
+    "photos": [
+      "/uploads/1774388170981-la4oq.avif",
+      "/uploads/1774388314170-m8io2.avif"
+    ],
+    "description": "Mansão VR, nestledin the prestigious Jardim Amália, offers an exquisite blend of timeless elegance and contemporary luxury across its expansive 400 m² footprint. Boasting five meticulously appointed rooms, each space is designed with soaring ceilings, premium finishes, and panoramic views that capture the neighborhood’s serene charm. This distinguished residence invites discerning buyers to experience refined living at its finest, where every detail reflects uncompromising quality and sophisticated style.",
+    "featured": true,
+    "createdAt": "2026-03-24T21:36:28.968Z"
+  },
+  {
+    "id": "1774398502113",
+    "slug": "casa-moderna",
+    "title": "Casa Moderna",
+    "location": "Jardim Ponte Alta",
+    "rooms": 3,
+    "area": 40,
+    "price": 500000,
+    "photos": [
+      "/uploads/1774398420819-j5ecp.avif"
+    ],
+    "description": "Casa Moderna inJardim Ponte Alta redefines compact luxury with its sleek, open‑plan layout and meticulously curated high‑end finishes that maximize every square meter. Boasting three thoughtfully designed rooms, this residence blends contemporary aesthetics with premium materials, offering an intimate yet sophisticated living experience in one of the city’s most sought‑after neighborhoods.",
+    "featured": true,
+    "createdAt": "2026-03-25T00:28:22.113Z"
+  },
+  {
+    "id": "1774410600829",
+    "slug": "casa-do-matheus",
+    "title": "Casa do Matheus",
+    "location": "Cajueiro",
+    "rooms": 2,
+    "area": 40,
+    "price": 400000,
+    "photos": [
+      "/uploads/1774410518298-l1da4.avif",
+      "/uploads/1774410523004-3bze2.avif"
+    ],
+    "description": "Nestled in the tranquil enclaveof Cajueiro, Casa do Matheus offers a meticulously curated 40m² sanctuary where thoughtful design meets Bahian charm. Every detail—from the natural material finishes to the seamless indoor-outdoor flow—evokes refined simplicity, transforming compact space into an intimate haven of light, craftsmanship, and serene sophistication. Ideal for the discerning seeker of a purposeful pied-à-terre steeped in local authenticity. (2 sentences)",
+    "featured": false,
+    "createdAt": "2026-03-25T03:50:00.829Z"
+  }
+]
